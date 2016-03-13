@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-bf9fdeec494e3b619ee6b132e00d5ebe6641d243.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-5069a424db28b642b990ed8c4edcc2fea7504650.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-62673d9ea12f34209e013c0561dac0592a96cfb1.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-bc5671b76e989989060efdee9af1c9ec30c38f48.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-bfcc34c6c98321db2a9b82de0a90d7a528de7de0.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/javajokes/build/libs/javajokes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5200519a6cc2ced8f44ae045c636bbc656d01b7">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/javajokes-6af93b2a110b77b281edff38a77b3340dff58f24.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-fefc1526b94e5a1ede83b1482e77f855e8d9f358.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-dbe62317efe04ee7662e2499d4f865d9e7386c09.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-a0968d2a8465d101548097c2316decea6e130e60.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-6598d3fe6bc079058a96cc050cdd08ce368c8752.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-6d4df88650e1e8f2161b8e4a7d16b5e44bdb3fc5.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-6435c5488f08891aecf9a59e9c3d6f8615c0e703.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/JokesApp/androidDisplayLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49a3befe0f9bc12e5191fc63238dd7a9f4338bec">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-3e8cd9591569db57413542ee54a6678fb98e08cc.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-2f0e3a7fc4386e0724f91dae4f4b66ff58ebedb4.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-59c4a38b57ea56e4197eeaf7738e26671329334d.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0ca193441fc8b299d98d187c1733252aa0b77848.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-380a353f870cb1822f452909c23d309cb1cc06f6.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-9b9fb1b8da617b358f5c9772027ce397cfcb5ee4.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-a229196eec7c86a0408964c9cf5d8b86adbf5f9d.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-e359d37447da789d45da7e0ad17dcf4dab9e6e53.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-4fbb7feaac61cccf1e2cdbdd373212a7552d4d82.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-7cbe2abc3c74c1acddf3100b58894bda0627fa0f.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-fb58c7d1c38030c9345eb0f6b1aff660ed06e2be.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-b19fa90c274bf8c065bb97488f12a434157369ac.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-4fe92b194c71c93a15190b416d9a377125c42578.jar" />
+    </item>
+    <item
+        jar="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/snehaanandyeluguri/Desktop/udacity/JokesApp/app/build/intermediates/pre-dexed/debug/classes-8be2fe93bb4e58963f68460ec5dec62de1c1c2a7.jar" />
+    </item>
+
+</items>
