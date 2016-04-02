@@ -58,7 +58,7 @@ public class MainActivity extends ActionBarActivity {
         public void onJokeRetrieved(String joke) {
             progress.dismiss();
             Intent jokesIntent=new Intent(MainActivity.this, JokeDisplayActivity.class);
-            jokesIntent.putExtra("Joke",Joker.getJoke());
+            jokesIntent.putExtra("Joke",joke);
             startActivity(jokesIntent);
         }
     }
