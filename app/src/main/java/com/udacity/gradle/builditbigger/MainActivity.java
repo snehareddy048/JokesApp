@@ -1,38 +1,26 @@
 package com.udacity.gradle.builditbigger;
 
-import android.content.Context;
+import android.app.ProgressDialog;
 import android.content.Intent;
-import android.os.AsyncTask;
-import android.support.v4.util.Pair;
-import android.support.v7.app.ActionBarActivity;
+import android.content.res.Resources;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
 import com.example.Joker;
 import com.example.snehaanandyeluguri.androiddisplaylibrary.JokeDisplayActivity;
-import com.example.snehaanandyeluguri.myapplication.backend.myApi.MyApi;
-import com.google.api.client.extensions.android.http.AndroidHttp;
-import com.google.api.client.extensions.android.json.AndroidJsonFactory;
-import com.google.api.client.googleapis.services.AbstractGoogleClientRequest;
-import com.google.api.client.googleapis.services.GoogleClientRequestInitializer;
-
-import java.io.IOException;
 
 public class MainActivity extends ActionBarActivity {
-
+    ProgressDialog progress;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        new EndpointsAsyncTask().execute(
-                new Pair<Context, String>(this, "Manfred"));
+
     }
-
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -57,10 +45,22 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void tellJoke(View view){
-        Intent jokesIntent=new Intent(MainActivity.this, JokeDisplayActivity.class);
-        jokesIntent.putExtra("Joke",Joker.getJoke());
-        startActivity(jokesIntent);
+        new EndpointsAsyncTask(new JokeRetrievalHandler()).execute();
+
+        Resources resources = getResources();
+        progress = ProgressDialog.show(this, resources.getString(R.string.dialog_title),
+                resources.getString(R.string.dialog_message), true);
     }
 
+    private class JokeRetrievalHandler implements EndpointsAsyncTask.OnJokeRetrievedListener {
+
+        @Override
+        public void onJokeRetrieved(String joke) {
+            progress.dismiss();
+            Intent jokesIntent=new Intent(MainActivity.this, JokeDisplayActivity.class);
+            jokesIntent.putExtra("Joke",Joker.getJoke());
+            startActivity(jokesIntent);
+        }
+    }
 
 }

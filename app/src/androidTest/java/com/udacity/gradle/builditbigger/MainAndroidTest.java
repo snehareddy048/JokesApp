@@ -3,7 +3,6 @@ package com.udacity.gradle.builditbigger;
 import android.content.Context;
 import android.support.v4.util.Pair;
 import android.test.AndroidTestCase;
-import android.util.Log;
 
 public class MainAndroidTest extends AndroidTestCase {
 
